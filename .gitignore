@@ -104,3 +104,7 @@ ENV/
 ./word_order_text_classification_cnn/logs
 ./word_order_text_classification_cnn/logs-test
 ./word_order_text_classification_cnn/.ipynb_checkpoints
+
+./universal_sentence_representations/logs
+./universal_sentence_representations/logs-test
+./universal_sentence_representations/.ipynb_checkpoints
