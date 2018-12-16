@@ -108,3 +108,8 @@ ENV/
 ./universal_sentence_representations/logs
 ./universal_sentence_representations/logs-test
 ./universal_sentence_representations/.ipynb_checkpoints
+
+./attention_is_all_you_need/logs
+./attention_is_all_you_need/.ipynb_checkpoints
+./attention_is_all_you_need/.data
+
