@@ -113,3 +113,4 @@ ENV/
 ./attention_is_all_you_need/.ipynb_checkpoints
 ./attention_is_all_you_need/.data
 
+every_model_learned_grad_descent_is_kernel_machine/data/**
